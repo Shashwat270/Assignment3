@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CreateBlogForm should render form for creating Blog Post 1`] = `
+<div
+  className="page-theme"
+>
+  <ul
+    className="header"
+  >
+    <li>
+      <h1>
+        BS
+      </h1>
+    </li>
+  </ul>
+  <div
+    className="content-width div-books"
+  >
+    <div
+      className="card"
+    >
+      <img
+        alt="Book"
+        className="book-image"
+        src="cover_image.jpeg"
+      />
+      <p
+        className="book-name"
+      >
+        Harry Potter and the sorcerer stone
+      </p>
+      <span
+        className="rating-data"
+      >
+        4.5
+      </span>
+      <img
+        alt="Heart"
+        className="heart-logo"
+        src={
+          Object {
+            "ReactComponent": [Function],
+            "__esModule": true,
+            "default": "heart-red.svg",
+          }
+        }
+      />
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card should render one exactly card 1`] = `
+<div
+  className="card"
+>
+  <img
+    alt="Book"
+    className="book-image"
+    src="cover_image.jpeg"
+  />
+  <p
+    className="book-name"
+  >
+    Harry Potter and the sorcerer stone
+  </p>
+  <span
+    className="rating-data"
+  >
+    4.5
+  </span>
+  <img
+    alt="Heart"
+    className="heart-logo"
+    src={
+      Object {
+        "ReactComponent": [Function],
+        "__esModule": true,
+        "default": "heart-red.svg",
+      }
+    }
+  />
+</div>
+`;
